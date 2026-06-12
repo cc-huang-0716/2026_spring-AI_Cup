@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Backup files
+*.bak
+
+# Data
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.pkl
+*.joblib
+*.zip
+*.rar
+
+# Papers / documents
+*.pdf
+
+# Outputs
+outputs/
+output/
+results/
+logs/
+runs/
+checkpoints/
+models/
+saved_models/
+submissions/
+predictions/
+
+# Secrets
+.env
+*.key
+credentials.json
+token.json
+
+# OS
+.DS_Store
+Thumbs.db
